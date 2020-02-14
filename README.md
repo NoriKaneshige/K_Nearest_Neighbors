@@ -1,5 +1,5 @@
 # K_Nearest_Neighbors
 
-![logistic_regression_API](https://github.com/NoriKaneshige/logistic_regression_API/blob/master/logistic_regression_1.png)
+![KNN](https://github.com/NoriKaneshige/K_Nearest_Neighbors/blob/master/KNN.png)
 
-![logistic_regression_API](https://github.com/NoriKaneshige/logistic_regression_API/blob/master/logistic_regression_2.png)
+![confusion_matrix](https://github.com/NoriKaneshige/K_Nearest_Neighbors/blob/master/confusion_matrix.png)
